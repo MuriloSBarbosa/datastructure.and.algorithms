@@ -4,31 +4,187 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e92b14-73eb-4cfd-96fe-89027b635454" name="Changes" comment="" />
+    <list default="true" id="d4e92b14-73eb-4cfd-96fe-89027b635454" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/069eadd78dd3584ee93b543add22b7cb1284eb5f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49e6b9cf3740fb681d04a555548d54f6d9558b96" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77da7a7591b0ac076ded90c6cc0460bbb4ecc931" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/6/069eadd78dd3584ee93b543add22b7cb1284eb5f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/9/49e6b9cf3740fb681d04a555548d54f6d9558b96" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/7/77da7a7591b0ac076ded90c6cc0460bbb4ecc931" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MuriloSBarbosa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MuriloSBarbosa/datastructure-and-algorithms.git&quot;,
+    &quot;accountId&quot;: &quot;fac1312a-3e67-410c-95cb-3ecdd26012f4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2iQeGxZBDrfKX1BQWQZQGmBhuUl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AvlTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearchTree.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ContainsDuplicate.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CreateBinaryTree.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DoublyLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRecurring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTable.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.HashTableArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTableMy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTableWithArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTableWithCustomLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTableWithOwnNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImplementingQueueUsingStacks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListPersonalized.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MergeSortedArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroes.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Stack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackWithArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Trie.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.datastructure-and-algorithms [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/muril/Documents/Repositorios GitHub/Estudos/datastructure-and-algorithms&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muril\Documents\Repositorios GitHub\Estudos\datastructure-and-algorithms\src\main\java\murilo\barbosa\array\exercises" />
+      <recent name="C:\Users\muril\Documents\Repositorios GitHub\Estudos\datastructure-and-algorithms\src\main\java\murilo\barbosa\tree" />
+      <recent name="C:\Users\muril\Documents\Repositorios GitHub\Estudos\datastructure-and-algorithms\src\main\java\murilo\barbosa\array" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="murilo.barbosa.graph" />
+      <recent name="murilo.barbosa.deque" />
+      <recent name="murilo.barbosa.linkedlists" />
+      <recent name="murilo.barbosa.hashtable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CreateBinaryTree">
+    <configuration name="CreateBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="murilo.barbosa.tree.exercises.CreateBinaryTree" />
+      <module name="datastructure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="murilo.barbosa.tree.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="murilo.barbosa.extras.Factorial" />
+      <module name="datastructure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="murilo.barbosa.extras.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="murilo.barbosa.extras.Fibonacci" />
+      <module name="datastructure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="murilo.barbosa.extras.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="murilo.barbosa.graph.Graph" />
+      <module name="datastructure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="murilo.barbosa.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="murilo.barbosa.tree.Trie" />
+      <module name="datastructure-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="murilo.barbosa.tree.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreateBinaryTree" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Graph" />
+        <item itemvalue="Application.Trie" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
