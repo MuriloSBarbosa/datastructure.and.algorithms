@@ -96,7 +96,7 @@ public class LinkedList<T> {
             prev.next = next;
         }
         this.size--;
-        // O(n)
+        // O(n)'
     }
 
     // prev | current
