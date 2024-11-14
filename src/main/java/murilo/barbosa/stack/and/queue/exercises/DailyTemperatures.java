@@ -2,6 +2,7 @@ package murilo.barbosa.stack.and.queue.exercises;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
+
 public class DailyTemperatures {
 
     public static void main(String[] args) {
@@ -16,7 +17,7 @@ public class DailyTemperatures {
         for (int i = 0; i < temps.length; i++) {
             var current = temps[i];
 
-            while(!stack.isEmpty() && current > temps[stack.peek()]) {
+            while (!stack.isEmpty() && current > temps[stack.peek()]) {
                 results[stack.peek()] = i - stack.pop();
             }
 

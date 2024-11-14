@@ -14,6 +14,14 @@ This repository contains the implementation of various Data Structures and Algor
 | 🌴 Tree        | A hierarchical data structure with a root value and subtrees of children. | [Tree](./src/main/java/murilo/barbosa/tree)              |
 | 🌐 Graph       | A collection of nodes and edges.                                          | [Graph](./src/main/java/murilo/barbosa/graph)            |
 
+## Algorithms
+
+| Name          | Description                                                 | Implementation                                                      |
+|:--------------|:------------------------------------------------------------|:--------------------------------------------------------------------|
+| 🧠 Recursion  | A function that calls itself.                               | [Recursion](./src/main/java/murilo/barbosa/recursion)               |
+| ➗ Merge Sort  | A sorting algorithm that divides the array into two halves. | [Merge Sort](./src/main/java/murilo/barbosa/sorting/MergeSort.java) |
+| 🧮 Quick Sort | A sorting algorithm that chooses a pivot element.           | [Quick Sort](./src/main/java/murilo/barbosa/sorting/QuickSort.java) |
+
 ## Utils
 
 - [Txt File Reader:](./src/main/java/murilo/barbosa/utils/TxtReader.java) A utility class to read
